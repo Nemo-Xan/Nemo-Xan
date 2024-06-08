@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nemo-Xan
-- 👀 I’m interested in Flutter and React.Js
+- 👀 I use in Flutter and React.Js
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on UI/UX projects
 - 📫 How to reach me danielcephersjones@gmail.com
